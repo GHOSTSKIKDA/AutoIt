@@ -2,35 +2,33 @@
 Learn AutoIt
 # Created by Hocine
 
-<h1>Heading</h1>
+Heading
+=======
 
-<h2>Sub-heading</h2>
+Sub-heading
+-----------
+ 
+### Another deeper heading
+ 
+Paragraphs are separated
+by a blank line.
 
-<h3>Another deeper heading</h3>
+Two spaces at the end of a line leave a  
+line break.
 
-<p>Paragraphs are separated
-by a blank line.</p>
+Text attributes _italic_, 
+**bold**, `monospace`.
 
-<p>Two spaces at the end of a line leave a<br />
-line break.</p>
+Bullet list:
 
-<p>Text attributes <em>italic</em>, 
-<strong>bold</strong>, <code>monospace</code>.</p>
+  * apples
+  * oranges
+  * pears
 
-<p>Bullet list:</p>
+Numbered list:
 
-<ul>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ul>
+  1. apples
+  2. oranges
+  3. pears
 
-<p>Numbered list:</p>
-
-<ol>
-<li>apples</li>
-<li>oranges</li>
-<li>pears</li>
-</ol>
-
-<p>A <a href="http://example.com">link</a>.</p>
+A [link](http://example.com).
