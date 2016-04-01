@@ -18,7 +18,10 @@ line break.
 
 Text attributes _italic_, 
 **bold**, `monospace`.
-<code> #include <file.au3> MsgBox(0,"info","first program") </code>
+<code> 
+#include <file.au3> 
+MsgBox(0,"info","first program")
+</code>
 
 Bullet list:
 
